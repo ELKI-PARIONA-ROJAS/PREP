@@ -9,7 +9,7 @@
 ##print(n1)
 
 
-frase=input('Introducir una frase que llegue al corazón: ')#hola
+frase=input('Introducir una frase que llegue al bobo: ')#hola
 lista=[]
 for i in frase:
     letra=frase[-1]#a , l
