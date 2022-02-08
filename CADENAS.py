@@ -48,3 +48,5 @@
 ##fecha=fecha[indice_mes+1:]
 ##año=fecha
 ##print('el dia de hoy es %s del mes de %s del año de %s' % (dia, mes, año))
+
+print('HASTA MAÑANA CON TODOS QUERIDOS AMIGOS')
