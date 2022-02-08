@@ -49,4 +49,15 @@
 ##año=fecha
 ##print('el dia de hoy es %s del mes de %s del año de %s' % (dia, mes, año))
 
-print('BUENOS DÍAS CON TODOS QUERIDOS AMIGOS')
+
+#Divide los elementos en función a un identificador
+##productos=input('Introduce los productos con el formato: ')
+##lista_productos=productos.split(',')
+##for i in lista_productos:
+##    print(i)
+
+
+
+import math
+
+print(round(math.pi,2))
