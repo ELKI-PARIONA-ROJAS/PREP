@@ -45,7 +45,7 @@ dia=fecha[:indice_dia]
 fecha=fecha[indice_dia+1:]
 indice_mes=fecha.find('/')
 mes=fecha[:indice_mes]
-fecha=fecha[indice_mesM+1:]
+fecha=fecha[indice_mes+1:]
 año=fecha
 print('el dia de hoy es %s del mes de %s del año de %s' % (dia, mes, año))
 
