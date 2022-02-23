@@ -21,10 +21,11 @@ def factorial(num):
     a=num
     b=1
     while a>0: 
-        b=b*a
+        b*=a
         a-=1
-    print('El factorial es igual a: ', b)
-factorial(5)
+    return b
+
+print(factorial(5))
 
 
 # Escribir una función que calcule el total de una factura tras aplicarle el IVA. La función debe recibir
